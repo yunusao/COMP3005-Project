@@ -1,14 +1,14 @@
 # COMP3005-Project
 
-Name: Yunus ABu-Oshaibah
-Student Number: 101222737
-Assignment: COMP 3005 Final Project
+- Name: Yunus Abu-Oshaibah
+- Student Number: 101222737
+- Assignment: COMP 3005 Final Project
 
 Hello, welcome to my COMP 3005 Project. Let me give you a run down of this repository, and how to run my database.
 
-COMP 3005 Project ER: This is the ER for my Database
-COMP 3005 Project Database Diagram: This is the Diagram for my Database
-Dependancies and proving 2NF-3NF: this file is a text document that explains why my database is 2NF and 3NF and list the dependancies
+- COMP 3005 Project ER: This is the ER for my Database
+- COMP 3005 Project Database Diagram: This is the Diagram for my Database
+- Dependancies and proving 2NF-3NF: this file is a text document that explains why my database is 2NF and 3NF and list the dependancies
 
 TO RUN MY DATABASE: 
 - open Pgadmin4
